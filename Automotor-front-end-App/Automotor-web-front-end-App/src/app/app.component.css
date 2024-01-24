@@ -1,0 +1,27 @@
+nav{
+    
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    font-weight: 800;
+    color: rgb(255, 239, 8);
+    
+}
+ul{
+    list-style: none;
+    display: inline-flex;
+}
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+input{
+    border-radius: 510px;
+}
+li{
+    
+}
